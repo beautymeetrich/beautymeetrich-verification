@@ -27,7 +27,7 @@ The platform uses intelligent face verification systems during signup and profil
 BeautyMeetRich uses automated face-detection AI technology during onboarding and profile editing workflows to help ensure uploaded images contain real human faces.
 
 The system helps detect and reduce:
-- AI-generated profile images
+- AI-verification profile images
 - hidden faces
 - irrelevant uploads
 - pets-only photos
@@ -72,12 +72,17 @@ See `/screenshots` folder.
 
 # Future Roadmap
 
-- Improved profile verification
+- Improved profile AI - verification
 - Better onboarding safety
 - Advanced image authenticity checks
 - Smarter moderation systems
 - Faster mobile onboarding
 - Improved trust systems
+- Live swipe-based video chat
+- Real-time premium easy video matching
+- Video introductions
+- Instant private video connections
+- Safe in-app communication tools
 
 ---
 
